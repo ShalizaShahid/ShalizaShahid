@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shaliza Shahid</h1>
+<h1 align="center">Hi 👋, I'm Laiba Shahid</h1>
 <h3 align="center">A passionate frontend web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalizashahid&label=Profile%20views&color=0e75b6&style=flat" alt="shalizashahid" /> </p>
 
-- 🌱 I’m currently learning **React.js and Graphic designing**
+- 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Whatever you wish to know**
 
-- 📫 How to reach me **shaliza847@gmail.com**
+- 📫 How to reach me **laibaashahid004@gmail.com**
 
 - ⚡ Fun fact **Front-end dev wasn’t planned but neither are the best adventures.**
 
